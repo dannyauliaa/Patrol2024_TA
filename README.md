@@ -2,9 +2,8 @@
 Repositori basis kode untuk pengerjaan Tugas Akhir kelompok PATROL 2024 terkait IoT dan MobApp untuk kelulusan S1 Teknik Telekomunikasi, Universitas Telkom 🎓
 
 
-# Sistem Pemetaan Kerusakan Jalan dengan Pengembangan Internet of Things
-
-
+Tugas Akhir Capstone Design
+"Sistem Pemetaan Kerusakan Jalan dengan Pengembangan Internet of Things"
 
 
 
