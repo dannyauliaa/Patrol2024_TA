@@ -6,7 +6,6 @@ Tugas Akhir Capstone Design
 "Sistem Pemetaan Kerusakan Jalan dengan Pengembangan Internet of Things"
 
 
-
 Kelompok PATROL 2024 (KeRak TLoR|Cumlaude)
   1. Muhammad Andika Naufan Dwiandharu
   2. Danny Aulia
