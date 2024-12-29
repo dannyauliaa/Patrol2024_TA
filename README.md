@@ -12,3 +12,4 @@ Kelompok PATROL 2024 (KeRak TLoR|Cumlaude)
   3. William Wafi Wisnutama
 
 ⚠️ Terdaftar di OpenLibrary Universitas Telkom
+Link Jurnal: https://journals.telkomuniversity.ac.id/jmecs/article/view/7666/2648
